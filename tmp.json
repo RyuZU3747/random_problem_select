@@ -1,0 +1,4081 @@
+{
+    "count": 2645,
+    "items": [
+      {
+        "problemId": 1000,
+        "titleKo": "A+B",
+        "titles": [
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "A+B",
+            "isOriginal": true
+          },
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "A+B",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 261926,
+        "level": 1,
+        "votedUserCount": 117,
+        "sprout": true,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 2.5109,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1001,
+        "titleKo": "A-B",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "A-B",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 223614,
+        "level": 1,
+        "votedUserCount": 46,
+        "sprout": true,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 1.4268,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1008,
+        "titleKo": "A/B",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "A/B",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 180759,
+        "level": 1,
+        "votedUserCount": 30,
+        "sprout": true,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 2.8873,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1009,
+        "titleKo": "\uBD84\uC0B0\uCC98\uB9AC",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uBD84\uC0B0\uCC98\uB9AC",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 18744,
+        "level": 4,
+        "votedUserCount": 155,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 4.1062,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1032,
+        "titleKo": "\uBA85\uB839 \uD504\uB86C\uD504\uD2B8",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uBA85\uB839 \uD504\uB86C\uD504\uD2B8",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 16277,
+        "level": 5,
+        "votedUserCount": 114,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.7367,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1037,
+        "titleKo": "\uC57D\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC57D\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 29653,
+        "level": 5,
+        "votedUserCount": 131,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.788,
+        "official": true,
+        "tags": [
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "number_theory",
+            "isMeta": false,
+            "bojTagId": 95,
+            "problemCount": 1251,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC815\uC218\uB860",
+                "short": "\uC815\uC218\uB860"
+              },
+              {
+                "language": "en",
+                "name": "number theory",
+                "short": "number theory"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1075,
+        "titleKo": "\uB098\uB204\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB098\uB204\uAE30",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 10345,
+        "level": 4,
+        "votedUserCount": 98,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.7513,
+        "official": true,
+        "tags": [
+          {
+            "key": "bruteforcing",
+            "isMeta": false,
+            "bojTagId": 125,
+            "problemCount": 1920,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998",
+                "short": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998"
+              },
+              {
+                "language": "en",
+                "name": "bruteforcing",
+                "short": "bruteforce"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC644\uC804\uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uC644\uC804 \uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4"
+              },
+              {
+                "alias": "bruteforce"
+              },
+              {
+                "alias": "brute force"
+              },
+              {
+                "alias": "\uC644\uD0D0"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1076,
+        "titleKo": "\uC800\uD56D",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC800\uD56D",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 11582,
+        "level": 4,
+        "votedUserCount": 74,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.1716,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1085,
+        "titleKo": "\uC9C1\uC0AC\uAC01\uD615\uC5D0\uC11C \uD0C8\uCD9C",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC9C1\uC0AC\uAC01\uD615\uC5D0\uC11C \uD0C8\uCD9C",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 49777,
+        "level": 3,
+        "votedUserCount": 180,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.5469,
+        "official": true,
+        "tags": [
+          {
+            "key": "geometry",
+            "isMeta": false,
+            "bojTagId": 100,
+            "problemCount": 1289,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAE30\uD558\uD559",
+                "short": "\uAE30\uD558\uD559"
+              },
+              {
+                "language": "en",
+                "name": "geometry",
+                "short": "geom"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1100,
+        "titleKo": "\uD558\uC580 \uCE78",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD558\uC580 \uCE78",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 15340,
+        "level": 4,
+        "votedUserCount": 77,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.3939,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1110,
+        "titleKo": "\uB354\uD558\uAE30 \uC0AC\uC774\uD074",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB354\uD558\uAE30 \uC0AC\uC774\uD074",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 98162,
+        "level": 5,
+        "votedUserCount": 146,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.1368,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1145,
+        "titleKo": "\uC801\uC5B4\uB3C4 \uB300\uBD80\uBD84\uC758 \uBC30\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC801\uC5B4\uB3C4 \uB300\uBD80\uBD84\uC758 \uBC30\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 5795,
+        "level": 5,
+        "votedUserCount": 66,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.6048,
+        "official": true,
+        "tags": [
+          {
+            "key": "bruteforcing",
+            "isMeta": false,
+            "bojTagId": 125,
+            "problemCount": 1920,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998",
+                "short": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998"
+              },
+              {
+                "language": "en",
+                "name": "bruteforcing",
+                "short": "bruteforce"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC644\uC804\uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uC644\uC804 \uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4"
+              },
+              {
+                "alias": "bruteforce"
+              },
+              {
+                "alias": "brute force"
+              },
+              {
+                "alias": "\uC644\uD0D0"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1152,
+        "titleKo": "\uB2E8\uC5B4\uC758 \uAC1C\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB2E8\uC5B4\uC758 \uAC1C\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 88308,
+        "level": 4,
+        "votedUserCount": 98,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 3.0648,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1157,
+        "titleKo": "\uB2E8\uC5B4 \uACF5\uBD80",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB2E8\uC5B4 \uACF5\uBD80",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 79497,
+        "level": 5,
+        "votedUserCount": 140,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.5222,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1159,
+        "titleKo": "\uB18D\uAD6C \uACBD\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB18D\uAD6C \uACBD\uAE30",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "TRENER",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 9206,
+        "level": 4,
+        "votedUserCount": 62,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.9051,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1173,
+        "titleKo": "\uC6B4\uB3D9",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC6B4\uB3D9",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 2905,
+        "level": 4,
+        "votedUserCount": 47,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.3119,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "simulation",
+            "isMeta": false,
+            "bojTagId": 141,
+            "problemCount": 914,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC2DC\uBBAC\uB808\uC774\uC158",
+                "short": "\uC2DC\uBBAC\uB808\uC774\uC158"
+              },
+              {
+                "language": "en",
+                "name": "simulation",
+                "short": "simulation"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1212,
+        "titleKo": "8\uC9C4\uC218 2\uC9C4\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "8\uC9C4\uC218 2\uC9C4\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 12313,
+        "level": 4,
+        "votedUserCount": 114,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.7866,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1225,
+        "titleKo": "\uC774\uC0C1\uD55C \uACF1\uC148",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC774\uC0C1\uD55C \uACF1\uC148",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "Cow Multiplication",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 5455,
+        "level": 4,
+        "votedUserCount": 82,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.6249,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1233,
+        "titleKo": "\uC8FC\uC0AC\uC704",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC8FC\uC0AC\uC704",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "Bovine Bones",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 2946,
+        "level": 4,
+        "votedUserCount": 38,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.8265,
+        "official": true,
+        "tags": [
+          {
+            "key": "bruteforcing",
+            "isMeta": false,
+            "bojTagId": 125,
+            "problemCount": 1920,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998",
+                "short": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998"
+              },
+              {
+                "language": "en",
+                "name": "bruteforcing",
+                "short": "bruteforce"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC644\uC804\uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uC644\uC804 \uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4"
+              },
+              {
+                "alias": "bruteforce"
+              },
+              {
+                "alias": "brute force"
+              },
+              {
+                "alias": "\uC644\uD0D0"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1236,
+        "titleKo": "\uC131 \uC9C0\uD0A4\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC131 \uC9C0\uD0A4\uAE30",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 4844,
+        "level": 5,
+        "votedUserCount": 52,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.3666,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1247,
+        "titleKo": "\uBD80\uD638",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uBD80\uD638",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 4162,
+        "level": 3,
+        "votedUserCount": 97,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.7379,
+        "official": true,
+        "tags": [
+          {
+            "key": "arbitrary_precision",
+            "isMeta": false,
+            "bojTagId": 117,
+            "problemCount": 232,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC784\uC758 \uC815\uBC00\uB3C4 / \uD070 \uC218 \uC5F0\uC0B0",
+                "short": "\uC784\uC758 \uC815\uBC00\uB3C4 / \uD070 \uC218 \uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arbitrary precision / big integers",
+                "short": "arbitrary precision / big integers"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uBE45\uC778\uD2F0\uC800"
+              },
+              {
+                "alias": "\uBE45\uB370\uC2DC\uBA40"
+              },
+              {
+                "alias": "biginteger"
+              },
+              {
+                "alias": "bigdecimal"
+              }
+            ]
+          },
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1252,
+        "titleKo": "\uC774\uC9C4\uC218 \uB367\uC148",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC774\uC9C4\uC218 \uB367\uC148",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 3428,
+        "level": 4,
+        "votedUserCount": 63,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.8938,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1259,
+        "titleKo": "\uD330\uB9B0\uB4DC\uB86C\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD330\uB9B0\uB4DC\uB86C\uC218",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "Palindrome Numbers",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 26447,
+        "level": 5,
+        "votedUserCount": 116,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.7406,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1264,
+        "titleKo": "\uBAA8\uC74C\uC758 \uAC1C\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uBAA8\uC74C\uC758 \uAC1C\uC218",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "Vowels",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 9173,
+        "level": 2,
+        "votedUserCount": 38,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 1.8127,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1267,
+        "titleKo": "\uD578\uB4DC\uD3F0 \uC694\uAE08",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD578\uB4DC\uD3F0 \uC694\uAE08",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 8715,
+        "level": 3,
+        "votedUserCount": 86,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.0592,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1268,
+        "titleKo": "\uC784\uC2DC \uBC18\uC7A5 \uC815\uD558\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC784\uC2DC \uBC18\uC7A5 \uC815\uD558\uAE30",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 2847,
+        "level": 5,
+        "votedUserCount": 46,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 3.1451,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1271,
+        "titleKo": "\uC5C4\uCCAD\uB09C \uBD80\uC7902",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC5C4\uCCAD\uB09C \uBD80\uC7902",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 16254,
+        "level": 1,
+        "votedUserCount": 389,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.9059,
+        "official": true,
+        "tags": [
+          {
+            "key": "arbitrary_precision",
+            "isMeta": false,
+            "bojTagId": 117,
+            "problemCount": 232,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC784\uC758 \uC815\uBC00\uB3C4 / \uD070 \uC218 \uC5F0\uC0B0",
+                "short": "\uC784\uC758 \uC815\uBC00\uB3C4 / \uD070 \uC218 \uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arbitrary precision / big integers",
+                "short": "arbitrary precision / big integers"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uBE45\uC778\uD2F0\uC800"
+              },
+              {
+                "alias": "\uBE45\uB370\uC2DC\uBA40"
+              },
+              {
+                "alias": "biginteger"
+              },
+              {
+                "alias": "bigdecimal"
+              }
+            ]
+          },
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1284,
+        "titleKo": "\uC9D1 \uC8FC\uC18C",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC9D1 \uC8FC\uC18C",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "House Numbers",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 4477,
+        "level": 3,
+        "votedUserCount": 74,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.3648,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1292,
+        "titleKo": "\uC27D\uAC8C \uD478\uB294 \uBB38\uC81C",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC27D\uAC8C \uD478\uB294 \uBB38\uC81C",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 14578,
+        "level": 5,
+        "votedUserCount": 74,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.766,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1296,
+        "titleKo": "\uD300 \uC774\uB984 \uC815\uD558\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD300 \uC774\uB984 \uC815\uD558\uAE30",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 1902,
+        "level": 5,
+        "votedUserCount": 30,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.0973,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "sorting",
+            "isMeta": false,
+            "bojTagId": 97,
+            "problemCount": 1583,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC815\uB82C",
+                "short": "\uC815\uB82C"
+              },
+              {
+                "language": "en",
+                "name": "sorting",
+                "short": "sorting"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1297,
+        "titleKo": "TV \uD06C\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "TV \uD06C\uAE30",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 6407,
+        "level": 4,
+        "votedUserCount": 93,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 1.6546,
+        "official": true,
+        "tags": [
+          {
+            "key": "pythagoras",
+            "isMeta": false,
+            "bojTagId": 60,
+            "problemCount": 76,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uD53C\uD0C0\uACE0\uB77C\uC2A4 \uC815\uB9AC",
+                "short": "\uD53C\uD0C0\uACE0\uB77C\uC2A4 \uC815\uB9AC"
+              },
+              {
+                "language": "en",
+                "name": "pythagoras theorem",
+                "short": "pythagoras thm"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "geometry",
+            "isMeta": false,
+            "bojTagId": 100,
+            "problemCount": 1289,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAE30\uD558\uD559",
+                "short": "\uAE30\uD558\uD559"
+              },
+              {
+                "language": "en",
+                "name": "geometry",
+                "short": "geom"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1330,
+        "titleKo": "\uB450 \uC218 \uBE44\uAD50\uD558\uAE30",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB450 \uC218 \uBE44\uAD50\uD558\uAE30",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 157959,
+        "level": 1,
+        "votedUserCount": 122,
+        "sprout": true,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 2.0152,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1333,
+        "titleKo": "\uBD80\uC7AC\uC911 \uC804\uD654",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uBD80\uC7AC\uC911 \uC804\uD654",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 1516,
+        "level": 4,
+        "votedUserCount": 44,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 3.2731,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "simulation",
+            "isMeta": false,
+            "bojTagId": 141,
+            "problemCount": 914,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC2DC\uBBAC\uB808\uC774\uC158",
+                "short": "\uC2DC\uBBAC\uB808\uC774\uC158"
+              },
+              {
+                "language": "en",
+                "name": "simulation",
+                "short": "simulation"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1350,
+        "titleKo": "\uC9C4\uC9DC \uACF5\uAC04",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC9C4\uC9DC \uACF5\uAC04",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 2741,
+        "level": 4,
+        "votedUserCount": 46,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.641,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1356,
+        "titleKo": "\uC720\uC9C4\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC720\uC9C4\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 2660,
+        "level": 5,
+        "votedUserCount": 41,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.0914,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "bruteforcing",
+            "isMeta": false,
+            "bojTagId": 125,
+            "problemCount": 1920,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998",
+                "short": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998"
+              },
+              {
+                "language": "en",
+                "name": "bruteforcing",
+                "short": "bruteforce"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC644\uC804\uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uC644\uC804 \uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4"
+              },
+              {
+                "alias": "bruteforce"
+              },
+              {
+                "alias": "brute force"
+              },
+              {
+                "alias": "\uC644\uD0D0"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1357,
+        "titleKo": "\uB4A4\uC9D1\uD78C \uB367\uC148",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB4A4\uC9D1\uD78C \uB367\uC148",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 9118,
+        "level": 5,
+        "votedUserCount": 76,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.8941,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1362,
+        "titleKo": "\uD3AB",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD3AB",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "Jo\u2019s Pet",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 908,
+        "level": 4,
+        "votedUserCount": 27,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 3.9747,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "simulation",
+            "isMeta": false,
+            "bojTagId": 141,
+            "problemCount": 914,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC2DC\uBBAC\uB808\uC774\uC158",
+                "short": "\uC2DC\uBBAC\uB808\uC774\uC158"
+              },
+              {
+                "language": "en",
+                "name": "simulation",
+                "short": "simulation"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1371,
+        "titleKo": "\uAC00\uC7A5 \uB9CE\uC740 \uAE00\uC790",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uAC00\uC7A5 \uB9CE\uC740 \uAE00\uC790",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 3921,
+        "level": 4,
+        "votedUserCount": 54,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.4797,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1373,
+        "titleKo": "2\uC9C4\uC218 8\uC9C4\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "2\uC9C4\uC218 8\uC9C4\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 10083,
+        "level": 5,
+        "votedUserCount": 74,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.4405,
+        "official": true,
+        "tags": [
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1392,
+        "titleKo": "\uB178\uB798 \uC545\uBCF4",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uB178\uB798 \uC545\uBCF4",
+            "isOriginal": false
+          },
+          {
+            "language": "en",
+            "languageDisplayName": "en",
+            "title": "Music Notes",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 1201,
+        "level": 4,
+        "votedUserCount": 31,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.3156,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1408,
+        "titleKo": "24",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "24",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 4570,
+        "level": 4,
+        "votedUserCount": 48,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.1678,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1434,
+        "titleKo": "\uCC45 \uC815\uB9AC",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uCC45 \uC815\uB9AC",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 1061,
+        "level": 4,
+        "votedUserCount": 40,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.4279,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1440,
+        "titleKo": "\uD0C0\uC784\uBA38\uC2E0",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD0C0\uC784\uBA38\uC2E0",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 556,
+        "level": 4,
+        "votedUserCount": 20,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.1601,
+        "official": true,
+        "tags": [
+          {
+            "key": "bruteforcing",
+            "isMeta": false,
+            "bojTagId": 125,
+            "problemCount": 1920,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998",
+                "short": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998"
+              },
+              {
+                "language": "en",
+                "name": "bruteforcing",
+                "short": "bruteforce"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC644\uC804\uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uC644\uC804 \uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4"
+              },
+              {
+                "alias": "bruteforce"
+              },
+              {
+                "alias": "brute force"
+              },
+              {
+                "alias": "\uC644\uD0D0"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1453,
+        "titleKo": "\uD53C\uC2DC\uBC29 \uC54C\uBC14",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD53C\uC2DC\uBC29 \uC54C\uBC14",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 6127,
+        "level": 4,
+        "votedUserCount": 62,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.6362,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1524,
+        "titleKo": "\uC138\uC900\uC138\uBE44",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC138\uC900\uC138\uBE44",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 685,
+        "level": 5,
+        "votedUserCount": 21,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.0321,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "simulation",
+            "isMeta": false,
+            "bojTagId": 141,
+            "problemCount": 914,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC2DC\uBBAC\uB808\uC774\uC158",
+                "short": "\uC2DC\uBBAC\uB808\uC774\uC158"
+              },
+              {
+                "language": "en",
+                "name": "simulation",
+                "short": "simulation"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "sorting",
+            "isMeta": false,
+            "bojTagId": 97,
+            "problemCount": 1583,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC815\uB82C",
+                "short": "\uC815\uB82C"
+              },
+              {
+                "language": "en",
+                "name": "sorting",
+                "short": "sorting"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1526,
+        "titleKo": "\uAC00\uC7A5 \uD070 \uAE08\uBBFC\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uAC00\uC7A5 \uD070 \uAE08\uBBFC\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 3649,
+        "level": 5,
+        "votedUserCount": 42,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.6435,
+        "official": true,
+        "tags": [
+          {
+            "key": "bruteforcing",
+            "isMeta": false,
+            "bojTagId": 125,
+            "problemCount": 1920,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998",
+                "short": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4 \uC54C\uACE0\uB9AC\uC998"
+              },
+              {
+                "language": "en",
+                "name": "bruteforcing",
+                "short": "bruteforce"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC644\uC804\uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uC644\uC804 \uD0D0\uC0C9"
+              },
+              {
+                "alias": "\uBE0C\uB8E8\uD2B8\uD3EC\uC2A4"
+              },
+              {
+                "alias": "bruteforce"
+              },
+              {
+                "alias": "brute force"
+              },
+              {
+                "alias": "\uC644\uD0D0"
+              }
+            ]
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1546,
+        "titleKo": "\uD3C9\uADE0",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uD3C9\uADE0",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 101005,
+        "level": 5,
+        "votedUserCount": 122,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 2.0114,
+        "official": true,
+        "tags": [
+          {
+            "key": "arithmetic",
+            "isMeta": false,
+            "bojTagId": 121,
+            "problemCount": 966,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC0AC\uCE59\uC5F0\uC0B0",
+                "short": "\uC0AC\uCE59\uC5F0\uC0B0"
+              },
+              {
+                "language": "en",
+                "name": "arithmetic",
+                "short": "arithmetic"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uB367\uC148"
+              },
+              {
+                "alias": "\uBE84\uC148"
+              },
+              {
+                "alias": "\uACF1\uC148"
+              },
+              {
+                "alias": "\uB098\uB217\uC148"
+              },
+              {
+                "alias": "\uB354\uD558\uAE30"
+              },
+              {
+                "alias": "\uBE7C\uAE30"
+              },
+              {
+                "alias": "\uACF1\uD558\uAE30"
+              },
+              {
+                "alias": "\uB098\uB204\uAE30"
+              }
+            ]
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1547,
+        "titleKo": "\uACF5",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uACF5",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 9188,
+        "level": 3,
+        "votedUserCount": 87,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.3636,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "simulation",
+            "isMeta": false,
+            "bojTagId": 141,
+            "problemCount": 914,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC2DC\uBBAC\uB808\uC774\uC158",
+                "short": "\uC2DC\uBBAC\uB808\uC774\uC158"
+              },
+              {
+                "language": "en",
+                "name": "simulation",
+                "short": "simulation"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1550,
+        "titleKo": "16\uC9C4\uC218",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "16\uC9C4\uC218",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 15359,
+        "level": 4,
+        "votedUserCount": 129,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": true,
+        "averageTries": 1.5436,
+        "official": true,
+        "tags": [
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          }
+        ],
+        "metadata": {
+  
+        }
+      },
+      {
+        "problemId": 1551,
+        "titleKo": "\uC218\uC5F4\uC758 \uBCC0\uD654",
+        "titles": [
+          {
+            "language": "ko",
+            "languageDisplayName": "ko",
+            "title": "\uC218\uC5F4\uC758 \uBCC0\uD654",
+            "isOriginal": true
+          }
+        ],
+        "isSolvable": true,
+        "isPartial": false,
+        "acceptedUserCount": 2540,
+        "level": 5,
+        "votedUserCount": 36,
+        "sprout": false,
+        "givesNoRating": false,
+        "isLevelLocked": false,
+        "averageTries": 1.7142,
+        "official": true,
+        "tags": [
+          {
+            "key": "implementation",
+            "isMeta": false,
+            "bojTagId": 102,
+            "problemCount": 4801,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uAD6C\uD604",
+                "short": "\uAD6C\uD604"
+              },
+              {
+                "language": "en",
+                "name": "implementation",
+                "short": "impl"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "math",
+            "isMeta": false,
+            "bojTagId": 124,
+            "problemCount": 5599,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC218\uD559",
+                "short": "\uC218\uD559"
+              },
+              {
+                "language": "en",
+                "name": "mathematics",
+                "short": "math"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "parsing",
+            "isMeta": false,
+            "bojTagId": 96,
+            "problemCount": 397,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uD30C\uC2F1",
+                "short": "\uD30C\uC2F1"
+              },
+              {
+                "language": "en",
+                "name": "parsing",
+                "short": "parsing"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "simulation",
+            "isMeta": false,
+            "bojTagId": 141,
+            "problemCount": 914,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uC2DC\uBBAC\uB808\uC774\uC158",
+                "short": "\uC2DC\uBBAC\uB808\uC774\uC158"
+              },
+              {
+                "language": "en",
+                "name": "simulation",
+                "short": "simulation"
+              }
+            ],
+            "aliases": []
+          },
+          {
+            "key": "string",
+            "isMeta": false,
+            "bojTagId": 158,
+            "problemCount": 2108,
+            "displayNames": [
+              {
+                "language": "ko",
+                "name": "\uBB38\uC790\uC5F4",
+                "short": "\uBB38\uC790\uC5F4"
+              },
+              {
+                "language": "en",
+                "name": "string",
+                "short": "string"
+              }
+            ],
+            "aliases": [
+              {
+                "alias": "\uC2A4\uD2B8\uB9C1"
+              }
+            ]
+          }
+        ],
+        "metadata": {
+  
+        }
+      }
+    ]
+  }
